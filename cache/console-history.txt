@@ -1,0 +1,12 @@
+let nft = await ethers.getContractFactory(
+let nft = await ethers.getContractFactory("NFT)
+let token_royalties = await NFT.deployed()
+let token = 0
+let token
+let
+ethers
+ethers.sendTransaction
+help
+run scripts/deploy.js
+run 
+ethers
